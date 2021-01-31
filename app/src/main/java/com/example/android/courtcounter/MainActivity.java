@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         displayForTeamB(t2);
     }
 
+    //works when add button is clicked
     public void T1plus3(View view){
         t1 = t1 + 3 ;
         displayForTeamA(t1);
